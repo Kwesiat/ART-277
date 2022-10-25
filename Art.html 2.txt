@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>ART 277 Assignment 2</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div style="color: darkgoldenrod; background-color: black">
+ <b> My favorite habit:</b>
+ <ul type="square">
+  <li>Reading Books </li>
+<li> Watching Movies </li>
+ <li>Programming Language</li>
+
+ <ul type="circle">
+  <li>Orange </li>
+ <li> Green</li>
+ <li> White</li>
+ </ul>
+ </div>
+ <hr>
+ <div style="color: black; background-color: darkgreen">
+   
+
+ <p><span style="color: black;font-family: cursive">Four things to expect in life</span></p>
+ <ul>
+   <li>love</li>
+   <ol type="i">
+     <li>happiness</li>
+     <li>emotion</li>
+   </ol>
+  </ul>
+  <ul>
+    <li>hate</li>
+    <ol type="i">
+      <li>fear</li>
+      <li>shame</li>
+  </ul>
+  <ul>
+    <li>work</li>
+    <ol type="i">
+      <li>Jobs</li>
+      <li>careers</li>
+    </ol>
+  </ul>
+  <ul>
+    <li>play</li>
+    <ol type="i">
+      <li>Retirement</li>
+      <li>Recreation</li>
+    </ol>
+  </ul>
+  </div>
+  <hr> 
+  <div style="color: black;background-color: burlywood">
+    
+
+  <b>list of items</b>
+  <ul type="square">
+    <li>item 1</li>
+    <li>item 2</li>
+    <li>item 3</li>
+    <li>item 4</li>
+    <ul type="circle">
+      <li>sub-item 1</li>
+      <li>sub-item 2</li>
+      <li>sub-item 3</li>
+      <ul>
+        <li>sub-sub-item 1</li>
+        <li>sub-sub-item 2</li>
+        <li>sub-sub-item 3</li>
+        <ul type="disc">
+          <li>sub-sub-sub-item 1</li>
+          <li>sub-sub-sub-item 2</li>
+          <li>sub-sub-sub-item 3</li>
+          <li>sub-sub-sub-item 4</li>
+        </ul>
+        
+          <li>sub-sub-item 4</li>
+      </ul>
+      <li>sub-item-4</li>
+    </ul>
+    <li>sub-item 4
+ </ul>
+   </div>
+ <hr>
+ <div style="color: black;background-color: darkgoldenrod">
+   
+
+ <h4>Aircraft types</h4>
+ <ul>
+   <li>General Aviation (piston-driven engine)</li>
+
+   <ol>
+     <li> single-engine aircraft</li>
+     <ol type="i">
+       <li>Tail wheel</li>
+       <li>Tricycle</li>
+   </ol>
+     <li>Dual-engine Aircraft</li>
+     <ol type="A">
+       <li>wind-mounted engines</li>
+       <li>push-pull fuselage</li>
+     </ol>
+   </ol>
+ </ul>
+ <ul>
+   <li>Commercial Aviation (jet engines)</li>
+   <ol>
+     <li>Dual-Engine</li>
+     <ol type="a">
+       <li>wing-mounted engine</li>
+       <li>fuselage-mounted engine</li>
+     </ol>
+       <li>Tri-engine</li>
+       <ol type="i">
+         <li>Third engine in vertical stabilizer</li>
+         <li>third enginein fuselage</li>
+       </ol>
+     </ol>
+   
+       
+   
+ </ul> </div>
+ 
+ 
+   
+   
+    
+  
+ 
+  <!-- Project -->
+  <script src="main.js"></script>
+</body>
+</html>
